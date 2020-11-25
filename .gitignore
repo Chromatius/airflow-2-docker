@@ -1,0 +1,9 @@
+# Generic Python files
+**/__pycache__/*
+
+# Airflow files
+airflow-logs/*
+!airflow-logs/.gitkeep
+
+# Pycharm specific files
+.idea
